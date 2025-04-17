@@ -15,9 +15,8 @@ int main ()
 
         printf("Digite mais um numero: ");
         scanf("%f", &numero);
-
-        printf("maior_numero = %f\n", maior_numero);
-
     }
+    printf("maior_numero = %f\n", maior_numero);
+
     return 0;
 }
